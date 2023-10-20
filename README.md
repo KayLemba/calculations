@@ -48,13 +48,6 @@ This is a ruby program that calculates math.
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
-
-This project is a simple spaces travelers hub. The main features are:
-
-- **Recreate all? enumerable**
-- **Recreate any? enumerable**
-- **Recreate filter enumerable**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
