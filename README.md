@@ -25,7 +25,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 🎯 Create own Enumerable<a name="about-project"></a>
-This is a ruby program that calculates math. 
+This is a ruby program that generates the list of all possible products of two factors that add up to 900900, sorted in ascending order by the first factor.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
